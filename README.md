@@ -6,7 +6,8 @@ Portfolio showcase of electronics solutions
 <details><summary>WATER SATURATION MONITORING SYSTEM🚰 (Project Pillows&Plates)</summary>
 <p>
     
-![IoT Connectivity](https://user-images.githubusercontent.com/23661772/169114257-8a1050a5-baaa-4204-9802-30a85636f0a6.png)
+<img width="407" alt="Screen Shot 2022-05-18 at 1 30 54 PM" src="https://user-images.githubusercontent.com/23661772/169118639-62252bf1-1e86-41b0-933c-4682f9f79eda.png">
+050a5-baaa-4204-9802-30a85636f0a6.png)
 
 ## **The Problem**
    
