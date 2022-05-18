@@ -22,12 +22,13 @@ System Stack Used:
 
 - Input with **[Messages API](https://docs.enklu.com/docs/API/Messages)**
 - Interfacing through **[Hands API](https://docs.enklu.com/docs/API/Hand)** and **[Spatial Artificial Intelligence API](https://docs.enklu.com/docs/API/App#sai-object)**
+- Hardware Used: **[Arduino Uno Rev3](https://docs.enklu.com/docs/API/App#sai-object](http://store-usa.arduino.cc/products/arduino-uno-rev3)** 
 - Training with **[Spatial Artificial Intelligence](https://docs.enklu.com/docs/API/App#sai-object)**
 - Scripted in **[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**
 
 ## **The Results**
 
-- Homeowners can rest easy while away on trips 
+Homeowners can rest easy while away on trips 
 
 ## The Opportunity
 
