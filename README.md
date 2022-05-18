@@ -20,7 +20,7 @@ Monitor soil saturation levels with sensors remotely and automatically water
 
 System Stack Used:
     
-- Hardware with **[Arduino Uno Rev3](http://store-usa.arduino.cc/products/arduino-uno-rev3)**
+- Hardware with **[Arduino Uno Rev3](http://store-usa.arduino.cc/products/arduino-uno-rev3)** + **[Grove Soil Moisture Sensor](https://www.seeedstudio.com/Grove-Moisture-Sensor.html?gclid=Cj0KCQjwspKUBhCvARIsAB2IYusMnaZLiBa2J6VLg4WIIazc1wio5eNFUhIPX7dacd_FzsDszFo8SHoaAkfGEALw_wcB)**
 - Scripted in **[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**
 
 ## **The Results**
