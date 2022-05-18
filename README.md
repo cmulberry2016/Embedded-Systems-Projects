@@ -20,7 +20,7 @@ Monitor soil saturation levels with sensors remotely and automatically water
 
 System Stack Used:
     
-- Hardware with **[Arduino Uno Rev3](https://docs.enklu.com/docs/API/App#sai-object](http://store-usa.arduino.cc/products/arduino-uno-rev3)**
+- Hardware with **[Arduino Uno Rev3](http://store-usa.arduino.cc/products/arduino-uno-rev3)**
 - Scripted in **[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**
 
 ## **The Results**
