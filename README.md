@@ -3,7 +3,7 @@ Portfolio showcase of electronics solutions
 
 ![Embedded Systems Background](https://user-images.githubusercontent.com/23661772/169116536-7782034d-a8fb-428e-bc49-a397e056087e.jpeg)
 
-<details><summary>WATER SATURATION MONITORING SYSTEM📍 (Project Pillows&Plates)</summary>
+<details><summary>WATER SATURATION MONITORING SYSTEM🚰 (Project Pillows&Plates)</summary>
 <p>
     
 ![IoT Connectivity](https://user-images.githubusercontent.com/23661772/169114257-8a1050a5-baaa-4204-9802-30a85636f0a6.png)
